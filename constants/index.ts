@@ -33,3 +33,11 @@ export const EXPERIENCE = [
       "Shopifyのチュートリアル動画のシリーズを構成からトークと映像の収録・編集まで制作。",
   },
 ];
+
+export const SOCIALS = [
+  {
+    href: "https://github.com/gotsushima",
+    key: "github",
+    image: "/github.svg",
+  },
+];
