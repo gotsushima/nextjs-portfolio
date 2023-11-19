@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex flex-row items-start justify-center">
           <ul className="flex gap-4 ">
             {SOCIALS.map((social) => (
-              <Link href={social.href} key={social.key}>
+              <Link href={social.href} key={social.key} target="_blank">
                 <Image src={social.image} alt="logo" width={40} height={40} />
               </Link>
             ))}
