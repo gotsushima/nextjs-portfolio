@@ -24,7 +24,7 @@ const Skill = () => {
             <div className="flex w-full flex-col">
               <p className="regular-16 text-gray-20">Development</p>
               <p className="bold-20 mt-2">HTML / CSS (SCSS) </p>
-              <p className="bold-20 mt-2">Javascript (jQuery)</p>
+              <p className="bold-20 mt-2">Javascript</p>
               <p className="bold-20 mt-2">WordPress</p>
               <p className="bold-20 mt-2">Shopify</p>
             </div>
