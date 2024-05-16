@@ -18,7 +18,7 @@ export const EXPERIENCE = [
     title: "フロントエンドエンジニア",
     icon: "/tech.svg",
     description:
-      "WordPressを使用したコーポレートサイトなどの制作。FlutterとESP32を使用して、Bluetoothリモコン機能を含むiOS/Androidアプリの開発、組み込み側の基盤モジュールプログラムを開発。",
+      "Javascriptを使った機能を実装したLPのパーツの制作。WordPressを使用したコーポレートサイトなどの制作。FlutterとESP32を使用して、Bluetoothリモコン機能を含むiOS/Androidアプリの開発、組み込み側の基盤モジュールプログラムを開発。",
   },
   {
     title: "UI/UXデザイナー",
@@ -31,13 +31,5 @@ export const EXPERIENCE = [
     icon: "/tech.svg",
     description:
       "Shopifyのチュートリアル動画のシリーズを構成からトークと映像の収録・編集まで制作。",
-  },
-];
-
-export const SOCIALS = [
-  {
-    href: "https://github.com/gotsushima",
-    key: "github",
-    image: "/github.svg",
   },
 ];
